@@ -1,0 +1,35 @@
+
+       Answer All the Question
+1.Explain about the main method in java?
+a.Without main method, we can't run program. Syntax is 'PUBLIC STATIC VOID MAIN(STRING[] ARGS)'.
+
+2.What are the different  Control flow Statements available in java?
+a.For Loop, While Loop,If statement, If-Else Statement.
+
+3.What is the Difference betweeen break and continue statements?
+a.Break will stop at cuurent, whereas Continues goes to end.
+
+4.What is an Array? How will you declare an array in java?
+a.Collection of similar data in the same data types.
+
+5.When will you get ArrayIndexOutOfBoundsException?
+a.Run time exception thrown only at runtime.
+
+6.Define the Syntax to create an object for a class.
+What are the naming conventions to be followed while creating a class, 
+method and a variable.Explain with examoles
+a. Syntax for create an object is " Class name objectname= new constructor();". A class should bein pascal notation, whereas methods and variable have camel notation.
+
+7.What is Variable?How will you declare a variables in java?
+a.Variable are two types.
+  1. Local:-Within the class, outside the main method.
+  2. Global:-In the class before main method.
+8.What is String in java? Is it a Data Type?
+a.Sequence of character is called string. It's a non-primitive data type. String is immutable.
+
+9.What are the different ways to create the String Object in java?
+a.String Littertal and Using new keyword.
+
+10.What is the Difference between .Equals and ==?
+a.".Equals", check the content. 
+  "==", checks the memory address.

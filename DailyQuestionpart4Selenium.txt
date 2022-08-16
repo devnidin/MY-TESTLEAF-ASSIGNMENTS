@@ -1,0 +1,30 @@
+1) What is Selenium? What are the different Selenium components? Explain about Selenium Webdriver.
+a.Selenium is an open source. Selenium Components are "IDE, WEBDRIVER, RC, GRID". We need two dependency to write selenium. Webdriver manage' it downloads drivers,exe file.
+
+2) How does Selenium communicate with the Web browsers?
+a.Web driver
+
+3.What are the locators available  to find an element using Selenium?
+a.There are 8 locators in Selenium. They are "ID, NAME, CLASS, LINKTEXT, PARTIAL LINKTEXT, TAGNAME, CSS SELECTOR, X PATH".
+
+4. Why ID is preferable than X-Path?
+a. Id is unique. It's much easier to access compare to Xpath.
+
+5.How to select value in dropdown?
+a.1. Value property.
+  2.Using select index property with the option property.
+
+6) What is the difference between Absolute Path and Relative Path?
+a.Absolute starts from root nodes, which means Html tag. But Realtive path startsfrom current node.
+ 
+7) How to verify if the given check box is checked or not (it is not taught but you can explore) Try here: http://leafground.com/pages/checkbox.html
+a.Use Selected() method over the checkbox element.
+
+8)Difference between System.setProperty and WebDriverManager
+a.System .set property is manual way, whereas Webdrivermanager is automated way.
+
+9) Write the syntax for preceding and following x-paths.
+a.//tagName[@attribute='attribute vale']/parent::p
+
+10) How to get an attribute value using Selenium WebDriver?
+a.The getAttrribute() method is used.
